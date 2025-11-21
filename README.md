@@ -27,7 +27,7 @@ lib/
 
 ## 🧩 Étape 1 : Création du projet Flutter
 
-Création du projet flutter_app_navigation puis exécution initiale.
+# Création du projet flutter_app_navigation puis exécution initiale.
 
 <img width="1366" height="768" alt="étape 1" src="https://github.com/user-attachments/assets/7cb6125f-d324-4e67-81e0-59155e27597c" />
 
