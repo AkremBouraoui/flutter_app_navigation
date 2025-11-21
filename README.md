@@ -56,12 +56,12 @@ Création du projet flutter_app_navigation puis exécution initiale.
 - Ajout d’un bouton dans PageAccueil
 - Navigation fonctionnelle :
 
-Aller à la page Infos
+- Aller à la page Infos :
 
 <img width="1366" height="768" alt="étape 4 -1" src="https://github.com/user-attachments/assets/1966826e-c4e4-493e-896d-1e83d6a9f73c" />
 
 
-Revenir en arrière
+- Revenir en arrière :
 
 <img width="1366" height="768" alt="étape 4 - 2" src="https://github.com/user-attachments/assets/6592d47a-18cb-4301-b2e6-49a3c991df28" />
 
